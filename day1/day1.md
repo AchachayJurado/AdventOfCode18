@@ -1,5 +1,4 @@
 --- Day 1: Chronal Calibration ---
-https://adventofcode.com/2018/day/1
 
 After feeling like you've been falling for a few minutes, you look at the device's tiny screen.
 "Error: Device must be calibrated before first use. Frequency drift detected.
@@ -20,3 +19,5 @@ Here are other example situations:
     -1, -2, -3 results in -6
 Starting with a frequency of zero,
  what is the resulting frequency after all of the changes in frequency have been applied?
+
+https://adventofcode.com/2018/day/1
